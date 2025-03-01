@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Com uma sólida base em desenvolvimento web , adquiri conhecimento em HTML5 ,CSS3, Sass, JavaScript,React ,Git , com foco no desenvolvimento de interfaces responsivas e dinamicas . minha formação  está alinhada ás praticas ensinadas no DevClub , onde  aprimorei minhas habilidades na criação de aplicações interetivas e com exelente usabilidade.
 
 <!--
 **maickon-coding/maickon-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
